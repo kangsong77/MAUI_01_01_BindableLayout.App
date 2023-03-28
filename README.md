@@ -1,5 +1,5 @@
 # MAUI_01_01_BindableLayout.App
-닷넷 마우이 Layout 연습-BindableLayout
+.NET MAUI Layout 연습-BindableLayout
 
 유튜브 참고: https://www.youtube.com/watch?v=Gxo-85Cbii8
 
