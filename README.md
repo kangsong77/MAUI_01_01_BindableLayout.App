@@ -3,8 +3,10 @@
 
 유튜브 참고: https://www.youtube.com/watch?v=Gxo-85Cbii8
 
-![image](https://user-images.githubusercontent.com/68939699/228246787-2044cae0-5a4f-4d93-a975-e8ac7af531f1.png)
+#### 실행화면
+![image](https://user-images.githubusercontent.com/68939699/228249709-e2501fcf-9889-4ff7-b937-70f1e6c859f6.png)
 
+#### Code
 ```
 <StackLayout>
         <Frame BackgroundColor="CadetBlue" Padding="24"  CornerRadius="0">
